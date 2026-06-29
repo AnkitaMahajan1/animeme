@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <radialGradient id="kw-bg" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#ffd6ec"/>
+      <stop offset="60%" stop-color="#ff8fc7"/>
+      <stop offset="100%" stop-color="#f4499b"/>
+    </radialGradient>
+    <linearGradient id="kw-hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff9ad1"/>
+      <stop offset="100%" stop-color="#e85aa8"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="28" fill="url(#kw-bg)"/>
+  <circle cx="44" cy="40" r="6" fill="#fff" opacity="0.8"/>
+  <circle cx="160" cy="58" r="4" fill="#fff" opacity="0.7"/>
+  <path d="M150 60 l3 8 8 3 -8 3 -3 8 -3-8 -8-3 8-3z" fill="#fff" opacity="0.85"/>
+  <!-- twin tails -->
+  <path d="M58 78 C30 90 30 140 52 160 C40 130 52 100 70 96z" fill="url(#kw-hair)"/>
+  <path d="M142 78 C170 90 170 140 148 160 C160 130 148 100 130 96z" fill="url(#kw-hair)"/>
+  <!-- back hair -->
+  <path d="M62 70 C62 40 138 40 138 70 L140 150 C120 162 80 162 60 150z" fill="url(#kw-hair)"/>
+  <!-- face -->
+  <path d="M70 92 C70 132 130 132 130 92 C130 70 70 70 70 92z" fill="#ffe8d6"/>
+  <!-- bangs -->
+  <path d="M64 84 C66 56 134 56 136 84 C120 74 116 92 100 90 C84 92 80 74 64 84z" fill="url(#kw-hair)"/>
+  <path d="M64 84 C70 70 84 66 92 70 C84 74 82 86 80 96 C72 94 66 90 64 84z" fill="url(#kw-hair)"/>
+  <path d="M136 84 C130 70 116 66 108 70 C116 74 118 86 120 96 C128 94 134 90 136 84z" fill="url(#kw-hair)"/>
+  <!-- blush -->
+  <ellipse cx="80" cy="112" rx="8" ry="5" fill="#ff7eb6" opacity="0.6"/>
+  <ellipse cx="120" cy="112" rx="8" ry="5" fill="#ff7eb6" opacity="0.6"/>
+  <!-- eyes -->
+  <ellipse cx="84" cy="102" rx="9" ry="12" fill="#fff"/>
+  <ellipse cx="116" cy="102" rx="9" ry="12" fill="#fff"/>
+  <circle cx="84" cy="104" r="7" fill="#d6357f"/>
+  <circle cx="116" cy="104" r="7" fill="#d6357f"/>
+  <circle cx="86" cy="101" r="2.5" fill="#fff"/>
+  <circle cx="118" cy="101" r="2.5" fill="#fff"/>
+  <!-- mouth -->
+  <path d="M94 120 Q100 126 106 120" fill="none" stroke="#c9466f" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

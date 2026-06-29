@@ -1,0 +1,86 @@
+{
+  "light": [
+    { "romaji": "Hikaru", "kana": "ヒカル", "kanji": "光", "meaning": "radiance, light" },
+    { "romaji": "Akira", "kana": "アキラ", "kanji": "明", "meaning": "bright, clear" },
+    { "romaji": "Hinata", "kana": "ヒナタ", "kanji": "陽", "meaning": "sunny place" },
+    { "romaji": "Akari", "kana": "アカリ", "kanji": "灯里", "meaning": "light, glow" }
+  ],
+  "love": [
+    { "romaji": "Ai", "kana": "アイ", "kanji": "愛", "meaning": "love, affection" },
+    { "romaji": "Koi", "kana": "コイ", "kanji": "恋", "meaning": "deep love" },
+    { "romaji": "Itsuki", "kana": "イツキ", "kanji": "慈", "meaning": "compassion" },
+    { "romaji": "Megumi", "kana": "メグミ", "kanji": "恵", "meaning": "blessing, grace" }
+  ],
+  "strength": [
+    { "romaji": "Takeshi", "kana": "タケシ", "kanji": "武", "meaning": "warrior, strong" },
+    { "romaji": "Goro", "kana": "ゴロウ", "kanji": "剛", "meaning": "strength, fortitude" },
+    { "romaji": "Riki", "kana": "リキ", "kanji": "力", "meaning": "power, force" },
+    { "romaji": "Tsuyoshi", "kana": "ツヨシ", "kanji": "強", "meaning": "strong, mighty" }
+  ],
+  "wisdom": [
+    { "romaji": "Satoshi", "kana": "サトシ", "kanji": "聡", "meaning": "wise, quick-witted" },
+    { "romaji": "Kenji", "kana": "ケンジ", "kanji": "賢", "meaning": "intelligent, wise" },
+    { "romaji": "Tomo", "kana": "トモ", "kanji": "智", "meaning": "wisdom, intellect" },
+    { "romaji": "Sage", "kana": "サトル", "kanji": "悟", "meaning": "enlightenment" }
+  ],
+  "victory": [
+    { "romaji": "Katsu", "kana": "カツ", "kanji": "勝", "meaning": "victory, to win" },
+    { "romaji": "Masaru", "kana": "マサル", "kanji": "勝", "meaning": "victorious" },
+    { "romaji": "Shori", "kana": "ショウリ", "kanji": "勝利", "meaning": "triumph" },
+    { "romaji": "Isamu", "kana": "イサム", "kanji": "勇", "meaning": "courage, bravery" }
+  ],
+  "beauty": [
+    { "romaji": "Mika", "kana": "ミカ", "kanji": "美香", "meaning": "beautiful fragrance" },
+    { "romaji": "Yumi", "kana": "ユミ", "kanji": "優美", "meaning": "graceful beauty" },
+    { "romaji": "Kiyomi", "kana": "キヨミ", "kanji": "清美", "meaning": "pure beauty" },
+    { "romaji": "Aya", "kana": "アヤ", "kanji": "彩", "meaning": "colorful, design" }
+  ],
+  "peace": [
+    { "romaji": "Yasu", "kana": "ヤス", "kanji": "安", "meaning": "calm, peace" },
+    { "romaji": "Shizuka", "kana": "シズカ", "kanji": "静", "meaning": "quiet, serene" },
+    { "romaji": "Nagi", "kana": "ナギ", "kanji": "凪", "meaning": "calm, lull" },
+    { "romaji": "Heiwa", "kana": "ヘイワ", "kanji": "平和", "meaning": "harmony, peace" }
+  ],
+  "star": [
+    { "romaji": "Hoshi", "kana": "ホシ", "kanji": "星", "meaning": "star" },
+    { "romaji": "Sei", "kana": "セイ", "kanji": "星", "meaning": "starlight" },
+    { "romaji": "Subaru", "kana": "スバル", "kanji": "昴", "meaning": "the Pleiades" },
+    { "romaji": "Reiko", "kana": "レイコ", "kanji": "玲星", "meaning": "shining star child" }
+  ],
+  "flower": [
+    { "romaji": "Hana", "kana": "ハナ", "kanji": "花", "meaning": "flower, blossom" },
+    { "romaji": "Sakura", "kana": "サクラ", "kanji": "桜", "meaning": "cherry blossom" },
+    { "romaji": "Ran", "kana": "ラン", "kanji": "蘭", "meaning": "orchid" },
+    { "romaji": "Sumire", "kana": "スミレ", "kanji": "菫", "meaning": "violet flower" }
+  ],
+  "fortune": [
+    { "romaji": "Sachi", "kana": "サチ", "kanji": "幸", "meaning": "fortune, happiness" },
+    { "romaji": "Fuku", "kana": "フク", "kanji": "福", "meaning": "good luck, blessing" },
+    { "romaji": "Kichi", "kana": "キチ", "kanji": "吉", "meaning": "good fortune" },
+    { "romaji": "Tomi", "kana": "トミ", "kanji": "富", "meaning": "wealth, abundance" }
+  ],
+  "devotion": [
+    { "romaji": "Makoto", "kana": "マコト", "kanji": "誠", "meaning": "sincerity, devotion" },
+    { "romaji": "Shin", "kana": "シン", "kanji": "信", "meaning": "faith, trust" },
+    { "romaji": "Kami", "kana": "カミ", "kanji": "神", "meaning": "divine spirit" },
+    { "romaji": "Tadashi", "kana": "タダシ", "kanji": "忠", "meaning": "loyal, devoted" }
+  ],
+  "fire": [
+    { "romaji": "Homura", "kana": "ホムラ", "kanji": "炎", "meaning": "flame, blaze" },
+    { "romaji": "Hi", "kana": "ヒ", "kanji": "火", "meaning": "fire" },
+    { "romaji": "Enji", "kana": "エンジ", "kanji": "炎司", "meaning": "ruler of flame" },
+    { "romaji": "Akane", "kana": "アカネ", "kanji": "茜", "meaning": "deep red, glow" }
+  ],
+  "water": [
+    { "romaji": "Mizu", "kana": "ミズ", "kanji": "水", "meaning": "water" },
+    { "romaji": "Umi", "kana": "ウミ", "kanji": "海", "meaning": "the sea" },
+    { "romaji": "Ren", "kana": "レン", "kanji": "蓮", "meaning": "lotus, water flower" },
+    { "romaji": "Nami", "kana": "ナミ", "kanji": "波", "meaning": "wave" }
+  ],
+  "sky": [
+    { "romaji": "Sora", "kana": "ソラ", "kanji": "空", "meaning": "sky, heaven" },
+    { "romaji": "Ten", "kana": "テン", "kanji": "天", "meaning": "the heavens" },
+    { "romaji": "Kaze", "kana": "カゼ", "kanji": "風", "meaning": "wind" },
+    { "romaji": "Amaterasu", "kana": "アマテラス", "kanji": "天照", "meaning": "shining over heaven" }
+  ]
+}

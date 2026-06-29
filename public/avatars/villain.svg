@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <radialGradient id="vl-bg" cx="50%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#5b2a6e"/>
+      <stop offset="55%" stop-color="#2e1338"/>
+      <stop offset="100%" stop-color="#120517"/>
+    </radialGradient>
+    <linearGradient id="vl-hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4a2150"/>
+      <stop offset="100%" stop-color="#1b0a22"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="28" fill="url(#vl-bg)"/>
+  <path d="M150 44 l2 7 7 2 -7 2 -2 7 -2-7 -7-2 7-2z" fill="#c0392b" opacity="0.8"/>
+  <!-- back hair, spiky -->
+  <path d="M58 78 C56 36 144 36 142 78 L150 150 L130 138 L120 156 L108 140 L100 158 L92 140 L80 156 L70 138 L50 150z" fill="url(#vl-hair)"/>
+  <!-- face -->
+  <path d="M70 92 C70 132 130 132 130 92 C130 70 70 70 70 92z" fill="#ecd4d0"/>
+  <!-- sharp bangs -->
+  <path d="M62 84 L78 60 L86 82 L100 58 L114 82 L122 60 L138 84 C120 74 116 86 100 84 C84 86 80 74 62 84z" fill="url(#vl-hair)"/>
+  <!-- sharp eyes -->
+  <path d="M74 106 L94 100 L92 108 L74 110z" fill="#fff"/>
+  <path d="M126 106 L106 100 L108 108 L126 110z" fill="#fff"/>
+  <circle cx="86" cy="105" r="5" fill="#e23b5a"/>
+  <circle cx="114" cy="105" r="5" fill="#e23b5a"/>
+  <circle cx="86" cy="105" r="2" fill="#1b0a22"/>
+  <circle cx="114" cy="105" r="2" fill="#1b0a22"/>
+  <!-- angry brows -->
+  <path d="M74 95 L94 100" stroke="#1b0a22" stroke-width="3" stroke-linecap="round"/>
+  <path d="M126 95 L106 100" stroke="#1b0a22" stroke-width="3" stroke-linecap="round"/>
+  <!-- smirk -->
+  <path d="M92 120 Q102 128 112 118" fill="none" stroke="#7a2f3a" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
